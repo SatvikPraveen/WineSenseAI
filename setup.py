@@ -7,7 +7,7 @@ with open("README.md", "r", encoding="utf-8") as f:
 __version__ = "0.0.0"
 
 REPO_NAME = "WineSenseAI"
-AUTHOR_USER_NAME = "Satvik Praveen"
+AUTHOR_USER_NAME = "SatvikPraveen"
 SRC_REPO = "mlProject"
 AUTHOR_EMAIL = "satvikpraveen707@gmail.com"
 
